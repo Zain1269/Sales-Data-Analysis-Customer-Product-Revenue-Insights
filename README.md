@@ -51,18 +51,3 @@ Recommendations
 3. Investigate low-performing months.
 4. Review the profitability of lower-performing markets.
 
-Project Structure
-
-sales-data-analysis-python/
-│
-├── Sales_Data_Analysis.ipynb
-└── README.md
-
-Project Outcome
-
-This project strengthened my practical skills in Python, Pandas, data visualization, exploratory data analysis, and extracting actionable business insights from data.
-
-Project
-
-"View the Jupyter Notebook" (./Sales_Data_Analysis.ipynb)# Sales-Data-Analysis-Customer-Product-Revenue-Insights
-A Python-based sales data analysis project exploring revenue performance, customer behavior, product performance, country-level sales, and monthly trends using Pandas and Matplotlib.
